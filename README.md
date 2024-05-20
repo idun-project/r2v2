@@ -8,8 +8,10 @@ With R2V2 installed in a C128, a single port, cable, and monitor input is used f
 
 ### Components
 
+VDC Enhancer (8568) front
 ![VDC enhancer front](images/digital-8568.png)
 
+VDC Enhancer (8563) back
 ![VDC enhancer back](images/digital-8563-back.png)
 
 R2V2 requires two small PCBs installed internally. One sits under the VDC chip, and can optionally include 64KB video RAM expanasion. There are versions for the MOS8563 and the MOS8568 (for C128-DCR). The second PCB installed is from the breakable PCB pictured and is either:
@@ -23,10 +25,10 @@ R2V2 requires two small PCBs installed internally. One sits under the VDC chip, 
 
 This is an open-source project still in the R&D phase. It is not fully baked, and you should not try to build it _unless you want to contribute to the testing/debugging effort_.
 
-- [*] Prototype PCBs manufactured
-    - [*] MOS8568 VDC enhancer
-    - [*] MOS8563 VDC enhancer
-    - [*] analog board
+- [x] Prototype PCBs manufactured
+    - [x] MOS8568 VDC enhancer
+    - [x] MOS8563 VDC enhancer
+    - [x] analog board
 - [ ] Prototype PCBs assembled
     - [ ] MOS8568 VDC enhancer
     - [ ] MOS8563 VDC enhancer w/o SRAM
