@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "r2v2_proj_models")(type "KiCad")(uri "${KIPRJMOD}/r2v2_proj_models")(options "")(descr ""))
+)
