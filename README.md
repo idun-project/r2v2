@@ -16,8 +16,8 @@ VDC Enhancer (8563) back
 
 R2V2 requires two small PCBs installed internally. One sits under the VDC chip, and can optionally include 64KB video RAM expanasion. There are versions for the MOS8563 and the MOS8568 (for C128-DCR). The second PCB installed is from the breakable PCB pictured and is either:
 
-1. An RF modulator replacment, which enhances the 8-pin DIN monitor port plus adds composite monitor and stereo audio outputs (supports 2 SIDs). It can also support switchable **HDMI OUT** from the composite port! (Requires additional compoents)
-2. A modification for the DB-9 monitor port, which outpus analog RGB (rather than RGBI) and can also be used for switchable **HDMI OUT**.
+1. An RF modulator replacement, which enhances the 8-pin DIN monitor port plus adds composite monitor and stereo audio outputs (supports 2 SIDs). It can also support switchable **HDMI OUT** from the composite port! (Requires additional components)
+2. A modification for the DB-9 monitor port, which outputs analog RGB (rather than RGBI) and can also be used for switchable **HDMI OUT**.
 
 ![2-part analog PCB](images/analog.png)
 
@@ -54,7 +54,7 @@ If you intend to use a monitor that supports S-video, you should be able to get 
 
 If you intend to use a monitor that supports composite, you can get decent color 40col and monochrome 80col from the output on the RCA jack. Install the VDC enhancer and the RF modulator replacement, then connect the composite output to your display. Most likely, you will want to use the 3.5mm heahphone jack for audio.
 
-It is possible to install both the RF modulator replacment and the DB-9 mod. If you do this, then you'll have analog RGB (both RGBS and RGBHV) on the DB-9, and that might be what you want for some monitors (e.g. SCART input). You'll have to work out your own switching between displays using this configuration.
+It is possible to install both the RF modulator replacement and the DB-9 mod. If you do this, then you'll have analog RGB (both RGBS and RGBHV) on the DB-9, and that might be what you want for some monitors (e.g. SCART input). You'll have to work out your own switching between displays using this configuration.
 
 #### For digital HDMI monitors
 
